@@ -1,0 +1,74 @@
+header{
+    
+    height: 120px;
+}
+
+h3{ 
+    position: absolute;
+    
+    margin-top: 60px;
+    margin-left: 150px;
+    border-radius: 10px;
+    border: 3px solid rgb(0, 128, 255);
+    width: 90px;
+    height: 60px;
+    text-align: center;
+    color: rgb(0, 128, 255);
+    padding-top: 5px;
+    font-size: 40px;
+    font-family:  cursive;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.list1{
+    position: absolute;
+    top: 20px;
+    right: 350px;
+    
+    height: 80px;
+    width: 500px;   
+}
+.btn1{
+    position: absolute;
+    
+    
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    margin-left: 120px;
+    margin-top: 60px;    
+    text-align: center;
+    width: 150px;
+    height: 40px;
+    padding: auto;
+}
+.btn2{
+    position: absolute;
+    
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    margin-left: 305px;
+    margin-top: 60px;
+    width: 100px;
+    height: 20px;
+    padding: auto;
+}
+.btn3{
+    position: absolute;
+    
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    margin-left: 450px;
+    top: 60px;
+    width: 100px;
+    height: 20px;
+    padding: auto;
+}

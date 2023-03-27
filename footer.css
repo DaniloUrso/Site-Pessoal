@@ -1,0 +1,66 @@
+li{
+    list-style: none;
+}
+
+footer{
+    padding: 20px;
+    background: rgb(0, 128, 255);
+    text-align: center;
+    height: 200px;
+}
+
+.list3{
+    margin: auto;
+    height: 70px;
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    
+}
+
+.in{
+    position: absolute;
+    left: 690px;
+
+    margin-top: 10px;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+.whats{
+    position: absolute;
+    left: 750px;
+    
+    margin-top: 10px;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+.twitter{
+    position: absolute;
+    left: 810px;
+    
+    margin-top: 10px;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    border: 2px solid rgb(0, 128, 255);
+}
+.insta{
+    position: absolute;
+    left: 870px;
+    
+    margin-top: 10px;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+.face{
+    position: absolute;
+    left: 930px;
+    
+    margin-top: 10px;
+    border-radius: 6px;
+    height: 50px;
+    width: 50px;
+}
